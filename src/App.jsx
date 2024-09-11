@@ -10,7 +10,10 @@ function App() {
   return (
     <>
     <h1>{isAdult ? 'da' : 'net'}</h1>
+    <h1>{isAdult ? 'da' : 'net'}</h1>
+    <h1>{isAdult ? 'da' : 'net'}</h1>
     </>
+    
   )
 }
 
